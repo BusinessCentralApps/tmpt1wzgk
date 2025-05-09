@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BusinessCentralApps/tmpSUtfAh-Actions/main/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/BusinessCentralApps/tmpSUtfAh-PTE@main",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
